@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('If I type "7+7", the code will not do the math automatically. But if I add a second command, and "7+7" is the only thing in the parenthesis, without quotation marks, it will add them up, as follows:'); console.log(7+7);
 
 /*  
 Next, PLAY! 
